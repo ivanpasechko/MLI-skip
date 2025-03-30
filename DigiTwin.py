@@ -18,5 +18,5 @@ class SkipHoistDigitalTwin:
             print("Ошибка: перегруз скипа")
 
 # Пример использования
-twin = SkipHoistDigitalTwin()
-twin.simulate_cycle(payload=15.0, travel_distance=500.0)
+# twin = SkipHoistDigitalTwin()
+# twin.simulate_cycle(payload=15.0, travel_distance=500.0)
